@@ -1,0 +1,10 @@
+flake8
+
+jupyter
+jupyterlab
+
+numpy
+scipy
+seaborn
+matplotlib
+
